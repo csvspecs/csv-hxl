@@ -10,7 +10,7 @@ HXL Standard @ <http://hxlstandard.org/>
 ## Tools & Libraries
 
 
-ruby lib  - <https://github.com/HXLStandard/libhxl-ruby> (archived)
+ruby lib  - <https://github.com/HXLStandard/libhxl-ruby>, <https://github.com/benrudolph/libhxl-ruby> (archived)
 
 
 ## Datasets
